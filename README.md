@@ -1,2 +1,4 @@
 # Del-ciaAki
-Design de criação de um site
+Design da criação de um site
+
+Site voltado para receitas
